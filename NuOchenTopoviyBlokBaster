@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Простой сайт</title>
+</head>
+<body>
+    <h1>Простой сайт с полем ввода и кнопкой</h1>
+    <form>
+        <label for="inputField">Введите текст:</label><br>
+        <input type="text" id="inputField" name="inputField"><br><br>
+        <button type="submit">Отправить</button>
+    </form>
+</body>
+</html>
